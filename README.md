@@ -18,4 +18,4 @@ Ekran Görüntüleri
 
 ![Ekran Görüntüsü 2](images/EkranGörüntüsü2.png)
 
-Projenin test edilmesi için bağlantı => FlipShot'u Oyna
+Projenin test edilmesi için bağlantı => [FlipShot'u Oyna](https://metinmustafaaltintas.github.io/FlipShot_Oynanis/)

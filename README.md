@@ -2,6 +2,7 @@ FlipShot
 FlipShot, klasik Pong oyunundan esinlenerek geliştirilmiş iki kişilik bir oyundur. Oyuncuların hızlı reflekslerini test ederken, basit kontrollerle rekabetçi bir deneyim sunar. Oyuna Space (Boşluk) tuşuna basarak başlarsınız.
 
 Kontroller
+
 Oyuncu 1:
 Yukarı: W
 Aşağı: S

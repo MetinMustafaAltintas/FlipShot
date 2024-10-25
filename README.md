@@ -3,13 +3,13 @@ FlipShot, klasik Pong oyunundan esinlenerek geliştirilmiş iki kişilik bir oyu
 
 Kontroller
 Oyuncu 1:
-
 Yukarı: W
 Aşağı: S
-Oyuncu 2:
 
-Yukarı: Yukarı ok (↑)
-Aşağı: Aşağı ok (↓)
+Oyuncu 2:
+Yukarı: ok (↑)
+Aşağı: ok (↓)
+
 Başlat: Boşluk (Space)
 
 Ekran Görüntüleri
